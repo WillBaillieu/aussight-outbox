@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-12",
+  "slot": 1,
+  "status": "ready",
+  "requested": null,
+  "focus": "finance-markets",
+  "political_or_sensitive": false,
+  "story": {
+    "headline": "David Jones receivers to close 19 of its 38 stores, about half the 188-year-old chain, with closures expected by the end of the year",
+    "score": 8,
+    "why": "Receivers FTI Consulting confirmed the 19 closures on Wed 11 Nov (ABC News 1:07pm AEDT, closure list posted 2:51pm AEDT on the ABC business live blog; Yahoo Finance 1:46pm AEDT). About 17 hours old at selection (6:50am AEDT Thu 12 Nov) and still developing: buyer expressions of interest due Fri 13 Nov. Scored: Australian relevance 2.5 (iconic retailer, about 6,000 staff, closures in 6 states/territories), debate 2 (rescue vs decline, landlord vs private-equity owner), measurable 2 (19 of 38 stores, under $100M purchase, rent unpaid since 30 Sep), timeliness 1.5. Runners-up: Woodside Browse financing analysis (ABC, 12 Nov) 6, no new development; Australia's fossil fuel policies at COP31 (ABC, 12 Nov) 7, ongoing; Government 'AI under control' messaging (ABC, 12 Nov) 6, repeats yesterday's AI regulator topic; ASIC v Macquarie savings rates (11 Nov) 7; regional airfares inquiry (11 Nov) 7; Nvidia/Jensen Huang probe (8-10 Nov) 6, older."
+  },
+  "discussion_question": "If half of David Jones closes to save the rest, is that a rescue or just a slower goodbye?",
+  "x": {
+    "post": "JUST IN: David Jones will close 19 of its 38 stores as receivers try to save the 188-year-old retailer. Buyers have until Friday to register interest.\n\nIf half of David Jones closes to save the rest, is that a rescue or just a slower goodbye?\n\n#AusSight #ausbiz",
+    "poll_question": "If half of David Jones closes to save the rest, is that a rescue or just a slower goodbye?",
+    "poll_options": [
+      "A rescue",
+      "A slower goodbye",
+      "Too early to tell"
+    ],
+    "poll_duration_days": 3,
+    "sources_reply": "Sources: https://www.abc.net.au/news/2026-11-11/david-jones-to-close-stores/107372854 https://www.abc.net.au/news/2026-11-11/asx-markets-business-live-news-nov-11/107370848 https://au.finance.yahoo.com/news/david-jones-will-close-19-stores-in-fight-to-survive-best-chance-034932795.html https://www.abc.net.au/news/2026-11-12/family-behind-david-jones-on-retailers-past-present-and-future/107368876 https://thenightly.com.au/business/administrators-appointed-to-department-store-david-jones-c-23118288  Footage: Pixabay (wcw6900, Werni, StockSnap, Coverr-Free-Footage, SaigonJoe, stevepb, RayPhotosPerth, Pexels, ed_davad)"
+  },
+  "linkedin": {
+    "post": "19 of 38. That is how many David Jones stores its receivers plan to close, with closures expected by the end of the year.\n\nThe 188-year-old retailer went into administration last week after rent talks with Westfield owner Scentre broke down. Scentre says no rent was paid from 30 September. Receivers FTI Consulting say the cuts give David Jones \"the best chance for a sustainable future\". Barrenjoey's Tom Kierath expects any comeback to be \"much smaller\". Buyers have until Friday.\n\nIf half of David Jones closes to save the rest, is that a rescue or just a slower goodbye?\n\nTell us what you think below.\n\n#AusSight #ausbiz #Retail",
+    "poll_question": "If half of David Jones closes to save the rest, is that a rescue or just a slower goodbye?",
+    "poll_options": [
+      "A rescue",
+      "A slower goodbye",
+      "Too early to tell"
+    ],
+    "poll_duration_days": 3,
+    "footage_line": "Footage: Pixabay (licensed file footage)"
+  },
+  "results_followup_template": "AusSight poll: {result_1}% called the David Jones closures a rescue, {result_2}% a slower goodbye and {result_3}% said it is too early to tell ({votes} votes).",
+  "credits": [
+    "wcw6900 / Pixabay (department store footage; also cover still)",
+    "Werni / Pixabay (escalator footage)",
+    "StockSnap / Pixabay (store entrance photo)",
+    "Coverr-Free-Footage / Pixabay (escalator, clothing rack and shoppers footage)",
+    "SaigonJoe / Pixabay (store entrance footage)",
+    "stevepb / Pixabay (shopping centre photo)",
+    "RayPhotosPerth / Pixabay (cosmetics counter photo)",
+    "Pexels / Pixabay (clothing store photo)",
+    "ed_davad / Pixabay (shopping centre photo)"
+  ],
+  "sources": [
+    "https://www.abc.net.au/news/2026-11-11/david-jones-to-close-stores/107372854",
+    "https://www.abc.net.au/news/2026-11-11/asx-markets-business-live-news-nov-11/107370848",
+    "https://au.finance.yahoo.com/news/david-jones-will-close-19-stores-in-fight-to-survive-best-chance-034932795.html",
+    "https://www.abc.net.au/news/2026-11-12/family-behind-david-jones-on-retailers-past-present-and-future/107368876",
+    "https://thenightly.com.au/business/administrators-appointed-to-department-store-david-jones-c-23118288"
+  ],
+  "warnings": [
+    "Wikimedia Commons refused downloads from the cloud address all run (HTTP 429), so the video has no genuine photos of David Jones stores; every shot is generic licensed department-store or shopping-centre file footage, labelled 'File footage' on screen.",
+    "Job losses from the 19 closures have not been published; the video and posts give no figure. 'About 6,000' is David Jones's total workforce (ABC) and is not used as a job-loss number.",
+    "Receivers are FTI Consulting (appointed by the secured lender); the voluntary administrator is McGrathNicol, which set the Fri 13 Nov deadline for expressions of interest. Some reports blur the two roles.",
+    "'Rent unpaid since 30 September' and 'under $100 million' purchase price are from Scentre Group and The Nightly (5 Nov) respectively; Anchorage has not confirmed the price.",
+    "Tom Kierath's quote is partial: 'If it does come back, it will come back in a much smaller, slimline version…' (ABC News, 11 Nov)."
+  ],
+  "notes": "Daily slot 1 for Thu 12 Nov. Cover files: cover.png and cover-vertical.png, headline 'David Jones shuts half its stores. | Rescue or slow goodbye?', number '19 of 38 · Stores set to close', still a frame of wcw6900 / Pixabay department-store footage. Footage I could not get: Commons CC BY-SA photos of the real David Jones stores (Westfield Hornsby entrance and interior, Aug 2026; Elizabeth St, Sydney; George St c.1900) - all downloads rate-limited (429) after retries; used Pixabay department-store B-roll instead. No named person has footage or a photo: Tom Kierath appears as a quote card. No ParlView footage (not a parliamentary story). Video 53.4s, AI narrator, 10 sources, real footage 68% (full screen 44%), 3 evidence cards (grid, ledger, excerpt).",
+  "video_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-12/video-1.mp4",
+  "captions_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-12/captions-1.srt",
+  "cover_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-12/cover-1.png",
+  "cover_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-12/cover-vertical-1.png",
+  "video_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-12/video-vertical-1.mp4",
+  "published_at": "2026-11-11T20:14:37.797Z"
+}

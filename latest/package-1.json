@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-14",
+  "slot": 1,
+  "status": "ready",
+  "requested": null,
+  "focus": "tech-ai",
+  "political_or_sensitive": true,
+  "story": {
+    "headline": "Microsoft apologises for a near day-long global Outlook and Teams outage that disrupted Australian courts, the AFP and ASIO, months after Home Affairs' security chief flagged the risk",
+    "score": 9,
+    "why": "New development today: ABC News posted 6:34am AEDT Sat 14 Nov 2026 that Microsoft said it was 'deeply sorry', reported 'broad recovery' and blamed an issue during an earlier network capacity upgrade. The outage ran through Fri 13 Nov (AEDT); ABC reported at 3:55pm AEDT Fri 13 Nov that Home Affairs' Hamish Hansford warned in August of its 'disproportionate impact'. Australian relevance 3/3 (courts in NSW, SA and Vic, AFP, ASIO, small business), debate 2.5/3 (cut reliance vs deepen ties with Microsoft), measurable 1.5/2 (~140,000 peak Outlook reports worldwide; more than $1B in federal Microsoft contracts this year), timeliness 2/2 (+1: new development under 12 hours old). Beat Jensen Huang's resignation as Nvidia CEO (8: two days old, thin Australian angle, allegation-heavy) and CBA's alleged overcharging of business customers (7)."
+  },
+  "discussion_question": "After this outage, should Canberra cut its reliance on Microsoft or deepen ties?",
+  "x": {
+    "post": "JUST IN: Microsoft apologises for the global outage that hit Australian courts, the AFP and ASIO. In August, Home Affairs' security chief warned of a \"disproportionate impact\".\n\nAfter this outage, should Canberra cut its reliance on Microsoft or deepen ties?\n\n#AusSight #AI",
+    "poll_question": "After this outage, should Canberra cut its reliance on Microsoft or deepen ties?",
+    "poll_options": [
+      "Cut reliance",
+      "Deepen ties",
+      "Bit of both"
+    ],
+    "poll_duration_days": 3,
+    "sources_reply": "Sources: https://www.abc.net.au/news/2026-11-14/microsoft-says-sorry-for-global-outage-and-details-recovery/107385540 https://www.abc.net.au/news/2026-11-13/microsoft-reliance-national-security-risk/107382100 https://www.abc.net.au/news/2026-11-13/microsoft-outage-affects-users-worldwide/107381050 https://www.windowscentral.com/microsoft/we-are-deeply-sorry-microsoft-apologizes-for-major-outage-that-knocked-outlook-teams-and-microsoft-365-offline-for-24-hours-insists-it-wasnt-ai-that-caused-it  Footage: Pixabay; Tony Burke photo: UK Home Office / Wikimedia Commons (CC BY 4.0)"
+  },
+  "linkedin": {
+    "post": "Nearly 140,000 Outlook problem reports at the peak, worldwide.\n\nFriday's Microsoft outage disrupted courts in three states, the AFP and ASIO here, and some small businesses say they lost up to $30,000 in a day. Microsoft has apologised, blaming an earlier network capacity upgrade, not a cyber attack.\n\nIn August, Home Affairs' Hamish Hansford warned an outage could have a \"disproportionate impact\", but called alternatives to US providers unrealistic. The Australian Computer Society wants a national review of sovereign IT risk.\n\nAfter this outage, should Canberra cut its reliance on Microsoft or deepen ties?\n\nTell us what you think below.\n\n#AusSight #Technology",
+    "poll_question": null,
+    "poll_options": null,
+    "poll_duration_days": null,
+    "footage_line": "Footage: Pixabay; Tony Burke photo: UK Home Office / Wikimedia Commons (CC BY 4.0)"
+  },
+  "results_followup_template": "Our X poll on Australia's reliance on Microsoft closed: {result_1} said cut reliance, {result_2} deepen ties and {result_3} a bit of both ({votes} votes).",
+  "credits": [
+    "kurt_BID / Pixabay (also the cover still)",
+    "Coverr-Free-Footage / Pixabay",
+    "Eaktas06 / Pixabay",
+    "PhotoDhaba / Pixabay",
+    "Natures_Embrace / Pixabay",
+    "Tho-Ge / Pixabay",
+    "pattyjansen / Pixabay",
+    "isuruzampa / Pixabay",
+    "Tony Burke photo: UK Home Office / Wikimedia Commons (CC BY 4.0)"
+  ],
+  "sources": [
+    "https://www.abc.net.au/news/2026-11-14/microsoft-says-sorry-for-global-outage-and-details-recovery/107385540",
+    "https://www.abc.net.au/news/2026-11-13/microsoft-reliance-national-security-risk/107382100",
+    "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affects-users-worldwide/107381050",
+    "https://www.windowscentral.com/microsoft/we-are-deeply-sorry-microsoft-apologizes-for-major-outage-that-knocked-outlook-teams-and-microsoft-365-offline-for-24-hours-insists-it-wasnt-ai-that-caused-it"
+  ],
+  "warnings": [
+    "LinkedIn poll skipped (political/sensitive); use comments. The question asks about government policy, so it is treated as political.",
+    "The 140,000 figure is the global Downdetector peak for Outlook problem reports (about seven in ten from the US), reported by ABC News; it is not an Australian count.",
+    "Single-source items (ABC News): the up-to-$30,000 small-business loss, courts in NSW, SA and Victoria affected, Hamish Hansford's August remarks (InnovationAus podcast) and the Australian Computer Society's call for a review (paraphrased, not quoted).",
+    "Microsoft's apology was first posted on X; it is attributed here through ABC News and Windows Central reporting, not the social post."
+  ],
+  "notes": "Story picked on the morning scan at about 6:50am AEDT Sat 14 Nov. Covers: cover.png and cover-vertical.png (still: a frame of the kurt_BID / Pixabay laptop clip; headline 'Microsoft outage stalls Australia. | Rely less or lean in?', number 140K labelled as worldwide). No genuine photo or footage of Hamish Hansford could be found, so his position is shown as an evidence card (ledger) with his name, over office B-roll. Wikimedia Commons was throttling cloud requests this run, so no Commons footage of Microsoft's Sydney office or Australian courts was used; licensed Pixabay B-roll (laptops, a gavel, a data-centre rack, Parliament House) stands in. Tony Burke is shown in the standing-library CC BY photo. Video is 54.9 s.",
+  "video_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-14/video-1.mp4",
+  "captions_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-14/captions-1.srt",
+  "cover_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-14/cover-1.png",
+  "cover_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-14/cover-vertical-1.png",
+  "video_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-14/video-vertical-1.mp4",
+  "published_at": "2026-11-13T20:19:10.447Z"
+}

@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-14",
+  "packages": [
+    {
+      "slot": 1,
+      "status": "ready",
+      "headline": "Microsoft apologises for a near day-long global Outlook and Teams outage that disrupted Australian courts, the AFP and ASIO, months after Home Affairs' security chief flagged the risk",
+      "requested": null,
+      "package_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/latest/package-1.json",
+      "video_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-14/video-1.mp4",
+      "video_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-14/video-vertical-1.mp4",
+      "cover_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-14/cover-1.png",
+      "cover_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-14/cover-vertical-1.png",
+      "published_at": "2026-11-13T20:19:10.447Z"
+    }
+  ]
+}

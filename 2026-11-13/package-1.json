@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-13",
+  "slot": 1,
+  "status": "ready",
+  "requested": null,
+  "focus": "politics",
+  "political_or_sensitive": true,
+  "story": {
+    "headline": "ASIO and the AFP open Australia's $74 million Counter Terrorism Online Centre in Sydney to monitor high-risk online spaces",
+    "score": 9,
+    "why": "Opens in Sydney today, Fri 13 Nov 2026; reported by AAP (12 Nov, afternoon AEDT) and ABC News (posted 5:00am AEDT 13 Nov). Australian relevance 3/3 (national security, young people online), debate 2.5/3 (protection vs civil liberties and oversight), measurable 1.5/2 ($74M over two years; AFP study: all 55 youth terror cases radicalised wholly or partly online), timeliness 2/2 (+1 under 12 hours). Beat Nvidia CEO Jensen Huang's resignation (8: huge US story, thin Australian angle, allegation-heavy) and the Productivity Commission regional airfares interim report (7)."
+  },
+  "discussion_question": "If ASIO and the AFP now watch the chat rooms where teens are radicalised, is that protection or overreach?",
+  "x": {
+    "post": "JUST IN: ASIO and the AFP open a $74M Counter Terrorism Online Centre in Sydney today to monitor high-risk online spaces.\n\nIf ASIO and the AFP now watch the chat rooms where teens are radicalised, is that protection or overreach?\n\n#AusSight #auspol",
+    "poll_question": "ASIO and the AFP watching extremist chat rooms: protection or overreach?",
+    "poll_options": [
+      "Overdue protection",
+      "Overreach",
+      "Depends on oversight"
+    ],
+    "poll_duration_days": 3,
+    "sources_reply": "Sources: https://www.abc.net.au/news/2026-11-13/sydney-counterterrorism-hub-targets-youth-extremism/107380242 https://aapnews.aap.com.au/news/new-intelligence-hub-tackling-online-radicalisation https://www.tonyburke.com.au/media-releases/2026/74-million-boost-to-fight-terrorism-and-online-threats https://anzsoc.org/watching-the-web-australias-counter-terrorism-online-centre-and-what-it-means-for-digital-harms-research/  Footage: Pixabay; photos UK Home Office and ASIO / Wikimedia Commons (CC BY)"
+  },
+  "linkedin": {
+    "post": "Every one of the 55 youth terror cases the AFP studied involved radicalisation wholly or partly online.\n\nFrom today, a $74 million Counter Terrorism Online Centre in Sydney puts ASIO and the AFP together to monitor high-risk online spaces. Home Affairs Minister Tony Burke says the watch on extremists now extends to the chat room. Criminologists have warned that online monitoring raises serious civil liberties and oversight questions.\n\nIf ASIO and the AFP now watch the chat rooms where teens are radicalised, is that protection or overreach?\n\nTell us what you think below.\n\n#AusSight #auspol",
+    "poll_question": null,
+    "poll_options": null,
+    "poll_duration_days": null,
+    "footage_line": "Footage: Pixabay; photos: UK Home Office, ASIO / Wikimedia Commons (CC BY)"
+  },
+  "results_followup_template": "Our X poll on the new counter-terrorism online centre closed: {result_1} said overdue protection, {result_2} overreach and {result_3} that it depends on oversight.",
+  "credits": [
+    "Vishart35 / Pixabay",
+    "JonathanSlatterMusic / Pixabay",
+    "Coverr-Free-Footage / Pixabay",
+    "Darioguzben / Pixabay",
+    "Graphitage1 / Pixabay",
+    "crew_jak / Pixabay (also the cover still)",
+    "SydneyRider / Pixabay",
+    "DistillVideos / Pixabay",
+    "helen35 / Pixabay",
+    "Tony Burke photo: UK Home Office / Wikimedia Commons (CC BY 4.0)",
+    "Mike Burgess photo: Australian Security Intelligence Organisation / Wikimedia Commons (CC BY 3.0)"
+  ],
+  "sources": [
+    "https://www.abc.net.au/news/2026-11-13/sydney-counterterrorism-hub-targets-youth-extremism/107380242",
+    "https://aapnews.aap.com.au/news/new-intelligence-hub-tackling-online-radicalisation",
+    "https://www.tonyburke.com.au/media-releases/2026/74-million-boost-to-fight-terrorism-and-online-threats",
+    "https://thenightly.com.au/australia/darwin-teen-charged-with-terrorism-offences-as-afp-reveals-disturbing-findings-on-child-radicalisation-c-23088215",
+    "https://anzsoc.org/watching-the-web-australias-counter-terrorism-online-centre-and-what-it-means-for-digital-harms-research/"
+  ],
+  "warnings": [
+    "LinkedIn poll skipped (political/sensitive); use comments.",
+    "Funding figure: ABC reports $76 million; the minister's 6 May 2026 release and AAP say $74 million over two years. The video and posts use $74 million.",
+    "The AFP '55 of 55' finding comes from Commissioner Krissy Barrett's Senate Estimates evidence as reported by The Nightly (29 Oct 2026); the transcript was not checked directly.",
+    "Burke's line that the social media ban is not enough on its own is reported by ABC News only.",
+    "Story involves minors and terrorism: keep replies factual; do not speculate about individual cases."
+  ],
+  "notes": "Cover files: cover.png (1080x1350) and cover-vertical.png (1080x1920), still a frame of Pixabay clip 47743 (crew_jak). ParlView was unreachable from the cloud (aph.gov.au blocked by the network policy), so there is no speaking clip; Tony Burke is shown in his Commons photo and Mike Burgess in an ASIO CC BY photo (now kept in the footage library). Commons was heavily rate-limited, so I couldn't get AFP or ASIO building photos or a photo of AFP Commissioner Krissy Barrett. Her finding is shown as a grid card instead. Video is 55.0s.",
+  "video_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-13/video-1.mp4",
+  "captions_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-13/captions-1.srt",
+  "cover_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-13/cover-1.png",
+  "cover_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-13/cover-vertical-1.png",
+  "video_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-13/video-vertical-1.mp4",
+  "published_at": "2026-11-12T20:10:06.508Z"
+}

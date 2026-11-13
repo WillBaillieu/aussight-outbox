@@ -1,0 +1,111 @@
+1
+00:00:00,100 --> 00:00:01,482
+On Friday,
+
+2
+00:00:01,482 --> 00:00:02,747
+Microsoft's Outlook and
+
+3
+00:00:02,747 --> 00:00:05,812
+Teams went down worldwide.
+
+4
+00:00:05,912 --> 00:00:07,259
+Problem reports peaked
+
+5
+00:00:07,259 --> 00:00:08,292
+near a hundred and forty
+
+6
+00:00:08,292 --> 00:00:09,873
+thousand.
+
+7
+00:00:09,973 --> 00:00:12,249
+Here, it hit courts,
+
+8
+00:00:12,249 --> 00:00:15,502
+the AFP and ASIO.
+
+9
+00:00:15,602 --> 00:00:17,065
+Some small businesses lost
+
+10
+00:00:17,065 --> 00:00:18,133
+up to thirty thousand
+
+11
+00:00:18,133 --> 00:00:20,243
+dollars.
+
+12
+00:00:20,343 --> 00:00:21,934
+Microsoft blamed a network
+
+13
+00:00:21,934 --> 00:00:24,566
+upgrade, not an attack.
+
+14
+00:00:24,666 --> 00:00:26,048
+Home Affairs' security
+
+15
+00:00:26,048 --> 00:00:28,010
+chief flagged this risk in
+
+16
+00:00:28,010 --> 00:00:29,542
+August.
+
+17
+00:00:29,642 --> 00:00:30,884
+He called alternatives
+
+18
+00:00:30,884 --> 00:00:32,846
+unrealistic, and urged
+
+19
+00:00:32,846 --> 00:00:35,093
+closer ties.
+
+20
+00:00:35,193 --> 00:00:36,667
+Tony Burke activated a
+
+21
+00:00:36,667 --> 00:00:38,653
+deal putting Australia's
+
+22
+00:00:38,653 --> 00:00:40,826
+recovery first.
+
+23
+00:00:40,926 --> 00:00:42,424
+The Computer Society wants
+
+24
+00:00:42,424 --> 00:00:45,071
+a review of sovereign IT risk.
+
+25
+00:00:45,171 --> 00:00:46,599
+After this outage,
+
+26
+00:00:46,599 --> 00:00:47,888
+should Canberra cut its
+
+27
+00:00:47,888 --> 00:00:49,745
+reliance on Microsoft or
+
+28
+00:00:49,745 --> 00:00:51,183
+deepen ties?

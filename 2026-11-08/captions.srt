@@ -1,0 +1,99 @@
+1
+00:00:00,150 --> 00:00:02,472
+This is placeholder narration for
+
+2
+00:00:02,472 --> 00:00:03,900
+a framed footage beat.
+
+3
+00:00:03,900 --> 00:00:05,363
+It runs for a few seconds
+
+4
+00:00:05,363 --> 00:00:07,373
+to test caption timing.
+
+5
+00:00:07,672 --> 00:00:09,672
+“This is a placeholder speech caption.”
+
+6
+00:00:09,672 --> 00:00:11,872
+“And this is the second line.”
+
+7
+00:00:12,422 --> 00:00:14,013
+Placeholder number beat with a
+
+8
+00:00:14,013 --> 00:00:16,952
+secondary comparison underneath.
+
+9
+00:00:17,178 --> 00:00:19,221
+Placeholder timeline.
+
+10
+00:00:19,221 --> 00:00:20,533
+One event.
+
+11
+00:00:20,533 --> 00:00:21,961
+Then another.
+
+12
+00:00:21,961 --> 00:00:23,598
+Then a third.
+
+13
+00:00:23,598 --> 00:00:25,191
+Then the latest.
+
+14
+00:00:25,434 --> 00:00:27,396
+Placeholder bars comparing three
+
+15
+00:00:27,396 --> 00:00:29,406
+values side by side.
+
+16
+00:00:29,641 --> 00:00:31,243
+Placeholder chart that draws
+
+17
+00:00:31,243 --> 00:00:33,066
+itself across the beat while the
+
+18
+00:00:33,066 --> 00:00:34,728
+value ticks up.
+
+19
+00:00:34,972 --> 00:00:36,690
+Placeholder full-bleed footage
+
+20
+00:00:36,690 --> 00:00:38,827
+beat, with the navy house grade
+
+21
+00:00:38,827 --> 00:00:40,059
+applied.
+
+22
+00:00:40,302 --> 00:00:42,324
+One hundred and six times.
+
+23
+00:00:43,102 --> 00:00:44,985
+Placeholder quote beat.
+
+24
+00:00:45,902 --> 00:00:49,733
+So, is it in good shape?
+
+25
+00:00:49,733 --> 00:00:52,289
+Vote now on X and LinkedIn.

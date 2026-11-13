@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-09",
+  "status": "ready",
+  "requested": null,
+  "story": {
+    "headline": "Sydney's $3.5 billion Cooks River precinct drops its AI data centre after community backlash",
+    "score": 8,
+    "why": "Published 2:26pm AEDT Sun 8 Nov by ABC News (Stockland confirmed amended masterplan). AI + local politics, live NSW policy debate (inquiry response due Feb), $3.5b figure; scored 8 (Aus relevance 2, debate 2.5, measurable 1.5, timeliness 2). Runner-up: PM keeps Victoria Barracks Sydney in public hands (ABC 9:16am AEDT Sun 8 Nov), 8."
+  },
+  "x": {
+    "post": "JUST IN: Stockland and John Boyd Properties have dropped an AI data centre from their $3.5 billion Cooks River precinct in Sydney after community backlash. It follows Goodman's Lane Cove exit in September.\n\nShould local councils get a veto over new AI data centres?\n\n#AusSight #AI",
+    "poll_question": "Should local councils get a veto over new AI data centres?",
+    "poll_options": [
+      "Yes, councils decide",
+      "No, the state decides",
+      "Undecided"
+    ],
+    "poll_duration_days": 3,
+    "sources_reply": "Sources: https://www.abc.net.au/news/2026-11-08/sydney-ai-data-centre-scrapped-after-community-backlash/107360592 https://www.abc.net.au/news/2026-09-28/lane-cove-ai-data-centre-plans-abandoned-by-goodman-group/107205120  Footage: sangphotography / Pixabay, diddy1960 / Pixabay, cipnt / Pixabay"
+  },
+  "linkedin": {
+    "post": "$3.5 billion. That is the estimated cost of a logistics precinct on Sydney's Cooks River whose developers have now dropped its AI data centre.\n\nStockland and John Boyd Properties confirmed on Sunday that the data centre is out of their amended masterplan for the former Kogarah Golf Club site, after residents raised concerns about the river, energy and water use, and noise.\n\nIt follows Goodman Group dropping a $1.2 billion Lane Cove data centre in September. The NSW Government must respond to a parliamentary inquiry into data centres by February.\n\nWho should decide where AI data centres go? Vote below.\n\n#AusSight #AI #DataCentres",
+    "poll_question": "Should local councils get a veto over new AI data centres?",
+    "poll_options": [
+      "Yes, councils decide",
+      "No, the state decides",
+      "Undecided"
+    ],
+    "poll_duration_days": 3,
+    "footage_line": "Footage: sangphotography / Pixabay, diddy1960 / Pixabay, cipnt / Pixabay"
+  },
+  "results_followup_template": "AusSight poll result: {yes}% said councils should get a veto over new AI data centres, {no}% said the state should decide and {undecided}% were undecided, from {votes} votes.",
+  "credits": [
+    "sangphotography / Pixabay",
+    "diddy1960 / Pixabay",
+    "cipnt / Pixabay"
+  ],
+  "sources": [
+    "https://www.abc.net.au/news/2026-11-08/sydney-ai-data-centre-scrapped-after-community-backlash/107360592",
+    "https://www.abc.net.au/news/2026-09-28/lane-cove-ai-data-centre-plans-abandoned-by-goodman-group/107205120"
+  ],
+  "warnings": [
+    "Music is the generated placeholder — add licensed tracks to assets/music/calm and /sombre."
+  ],
+  "notes": "Video 67.2s, ElevenLabs narration. All footage is generic Pixabay file footage (Sydney skyline, power lines, server racks), labelled as such; no footage of the Cooks River site was available (Wikimedia Commons was rate-limited). The $3.5b is the estimated cost of the whole logistics precinct, not the data centre alone; no MW or separate cost for the data centre was published. ABC also reports a Guildford proposal dropped in September; left out because the developer attribution was unclear. Wikimedia Commons unavailable this run.",
+  "video_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-09/video.mp4",
+  "captions_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-09/captions.srt",
+  "published_at": "2026-11-08T20:09:50.718Z"
+}

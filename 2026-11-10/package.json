@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-10",
+  "status": "ready",
+  "requested": null,
+  "story": {
+    "headline": "Big tech backs digital duty of care bill 'in principle' but wants big changes, as Senate inquiry hears evidence",
+    "score": 8,
+    "why": "Senate inquiry hearings began Mon 9 Nov and continue Tue 10 Nov (ABC live blog 7:07am AEDT 9 Nov; AAP via Yahoo 5:10pm AEDT 9 Nov; SBS 6:44pm AEDT 9 Nov). Aus relevance 2.5, debate 2.5, measurable 1.5 ($109m max fine), timeliness 1.5. Runners-up: Grattan specialist fees report (SBS 8:40am AEDT 9 Nov) 7; Minister Anne Aly WhatsApp hack (SBS 2:06pm AEDT 9 Nov) 7."
+  },
+  "x": {
+    "post": "JUST IN: Meta, Google, TikTok and Snap have told a Senate inquiry they back Labor's digital duty of care bill in principle, but want significant changes. Platforms face fines of up to $109 million.\n\nShould the Senate pass the digital duty of care bill?\n\n#AusSight #auspol",
+    "poll_question": "Should the Senate pass the digital duty of care bill?",
+    "poll_options": [
+      "Yes, as it stands",
+      "Yes, with amendments",
+      "No, reject it",
+      "Too early to say"
+    ],
+    "poll_duration_days": 3,
+    "sources_reply": "Sources: https://www.abc.net.au/news/2026-11-09/federal-politics-live-blog-digital-duty-of-care-/107362100 https://www.sbs.com.au/news/article/manosphere-content-could-get-shut-down-inquiry-hears-amid-ministers-denial/ga7y6lp93 https://au.news.yahoo.com/not-wait-grieving-parents-plead-215353508.html https://thenextweb.com/news/google-australia-digital-duty-of-care-gmail https://idtechwire.com/google-warns-australias-duty-of-care-bill-could-bring-age-checks-to-email-and-file-storage/  Footage: Squirrel_photos / Pixabay, magicmore / Pixabay, Josh_Malic / Pixabay"
+  },
+  "linkedin": {
+    "post": "$109 million. That is the maximum fine online platforms could face under the Digital Duty of Care bill, now before a Senate inquiry.\n\nMeta, Google, TikTok and Snap told Monday's hearing they agree with it in principle, but want significant changes, citing vague provisions and a rushed process. Grieving parents urged senators to act.\n\nCommunications Minister Anika Wells says: \"If you build it, you are responsible for its risks.\" The bill passed the House in October without Coalition support, and Liberal senator Sarah Henderson says it seems \"more about shutting down free speech than tackling harm\".\n\nShould the Senate pass it? Vote below.\n\n#AusSight #auspol #OnlineSafety",
+    "poll_question": "Should the Senate pass the digital duty of care bill?",
+    "poll_options": [
+      "Yes, as it stands",
+      "Yes, with amendments",
+      "No, reject it",
+      "Too early to say"
+    ],
+    "poll_duration_days": 3,
+    "footage_line": "Footage: Squirrel_photos / Pixabay, magicmore / Pixabay, Josh_Malic / Pixabay"
+  },
+  "results_followup_template": "AusSight poll result: {yes_as_is}% said the Senate should pass the digital duty of care bill as it stands, {yes_amended}% said pass it with amendments, {no}% said reject it and {too_early}% said it was too early to say, from {votes} votes.",
+  "credits": [
+    "Squirrel_photos / Pixabay",
+    "magicmore / Pixabay",
+    "Josh_Malic / Pixabay"
+  ],
+  "sources": [
+    "https://www.abc.net.au/news/2026-11-09/federal-politics-live-blog-digital-duty-of-care-/107362100",
+    "https://www.sbs.com.au/news/article/manosphere-content-could-get-shut-down-inquiry-hears-amid-ministers-denial/ga7y6lp93",
+    "https://au.news.yahoo.com/not-wait-grieving-parents-plead-215353508.html",
+    "https://thenextweb.com/news/google-australia-digital-duty-of-care-gmail",
+    "https://idtechwire.com/google-warns-australias-duty-of-care-bill-could-bring-age-checks-to-email-and-file-storage/"
+  ],
+  "warnings": [
+    "Music is the generated placeholder — add licensed tracks to assets/music/calm and /sombre.",
+    "The Rachel Lord (YouTube/Google) quote in the video is sourced from tech press reports of the hearing (The Next Web, ID Tech), not an official Hansard transcript; the two reports match."
+  ],
+  "notes": "Video 70.9s, AI narration (ElevenLabs), 3 Pixabay clips (no identifiable people; no real-person footage available from allowed sources, so the minister and YouTube are shown as quote cards). The Senate inquiry continues today (10 Nov); if a major new development emerges at today's hearing before posting, the bot may want to note it. The committee's 20 Nov report date appeared in only one source (The Next Web), so it was left out of the posts and video. Minister and department web pages blocked automated fetching; facts were cross-checked across ABC, SBS and AAP instead. LinkedIn post is 106 words / 677 chars; X post 271 chars.",
+  "video_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-10/video.mp4",
+  "captions_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-10/captions.srt",
+  "published_at": "2026-11-09T19:54:27.244Z"
+}

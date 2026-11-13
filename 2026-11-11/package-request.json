@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-11",
+  "slot": "request",
+  "status": "ready",
+  "requested": "On-demand request from Lara (Wed 11 Nov 2026, 10:19am Melbourne): make one new video package now in the v3 format, slot \"request\", on a fresh qualifying story that is different from anything already published today. The cloud environment's allowed domains now include aph.gov.au and *.aph.gov.au, so try tools/parlview.cjs for real speaking footage where the story suits it. In the package notes, say plainly whether aph.gov.au was reachable and whether the ParlView search and clip download worked; if ParlView fails, carry on with the other footage sources rather than stopping.",
+  "focus": "politics",
+  "political_or_sensitive": true,
+  "story": {
+    "headline": "Bupa aged care residents asked to pay $42 a day for a dining package with two hot breakfasts a week",
+    "score": 9,
+    "why": "ABC Investigations report published 5:00am AEDT Wed 11 Nov 2026 (about 6 hours old at selection, 11:05am AEDT). Lands days after the old additional/extra service fees ended on 31 Oct 2026 and residents move to Higher Everyday Living Fees. Relevance 9 (aged care costs for families nationwide, Bupa has 5,000+ residents), debate 10, measurable 8 ($42/day, $15,330/yr, other providers' price lists), timeliness 10 (+1, under 12h). Different from today's Qantas (request) and AI safety regulator (slot 1) packages. Other candidates: CBA Q1 update 8:22am (flat on quarterly average, arrears up 7bps) 8; US CPI/Wall St fall 7; solar retailer ban 7."
+  },
+  "discussion_question": "Should a hot breakfast in aged care be a paid extra, or part of every resident's care?",
+  "x": {
+    "post": "JUST IN: Bupa aged care residents are asked to pay $42 a day for a dining package with two hot breakfasts a week. Non-payers get a continental breakfast.\n\nShould a hot breakfast in aged care be a paid extra, or part of every resident's care?\n\n#AusSight #auspol",
+    "poll_question": "Should a hot breakfast in aged care be a paid extra, or part of every resident's care?",
+    "poll_options": [
+      "A paid extra",
+      "Part of standard care",
+      "Depends on the resident"
+    ],
+    "poll_duration_days": 3,
+    "sources_reply": "Sources: https://www.abc.net.au/news/2026-11-11/bupa-aged-care-cooked-breakfast-charge-helf-program/107352108 https://www.health.gov.au/our-work/residential-aged-care/charging/higher-everyday-living-additional-and-extra-service-fees  Footage: Pixabay (KunalKapoor7, klimkin, ponce_photography, Carola68, stevepb, RonPorter, Life-Of-Vids, Amorn_mimi)"
+  },
+  "linkedin": {
+    "post": "$15,330 a year. That is what Bupa's \"Enhanced Dining Experience\" costs an aged care resident, about $42 a day, an ABC investigation reports. It includes two hot breakfasts a week; residents who don't pay get a continental breakfast.\n\nBupa says it will provide cooked protein if a dietitian recommends it. Dietitians Australia says most people expect an egg at breakfast.\n\nThe fee sits under the Higher Everyday Living Fee rules, which say such services must be optional and beyond required care.\n\nShould a hot breakfast in aged care be a paid extra, or part of every resident's care?\n\nTell us what you think below.\n\n#AusSight #auspol #agedcare",
+    "poll_question": null,
+    "poll_options": null,
+    "poll_duration_days": null,
+    "footage_line": "Footage: Pixabay (KunalKapoor7, klimkin, ponce_photography, Carola68, stevepb, RonPorter, Life-Of-Vids, Amorn_mimi)"
+  },
+  "results_followup_template": "AusSight poll: {result_1}% said a hot breakfast in aged care should be a paid extra, {result_2}% said part of standard care and {result_3}% said it depends on the resident ({votes} votes).",
+  "credits": [
+    "KunalKapoor7 / Pixabay (background)",
+    "klimkin / Pixabay (footage)",
+    "ponce_photography / Pixabay (photo)",
+    "Carola68 / Pixabay (photo)",
+    "stevepb / Pixabay (photo)",
+    "RonPorter / Pixabay (photo)",
+    "Life-Of-Vids / Pixabay (footage)",
+    "Amorn_mimi / Pixabay (footage)",
+    "KunalKapoor7 / Pixabay (cover still)"
+  ],
+  "sources": [
+    "https://www.abc.net.au/news/2026-11-11/bupa-aged-care-cooked-breakfast-charge-helf-program/107352108",
+    "https://www.health.gov.au/our-work/residential-aged-care/charging/higher-everyday-living-additional-and-extra-service-fees",
+    "https://www.health.gov.au/ministers/the-hon-sam-rae-mp/media/protecting-older-australians-in-residential-aged-care"
+  ],
+  "warnings": [
+    "LinkedIn poll skipped (political/sensitive); use comments.",
+    "Bupa's $42-a-day / $15,330-a-year figures, what the package includes and the Fiona Willer quote are single-source (ABC Investigations, 11 Nov 2026). Bupa's own statement is as quoted by the ABC.",
+    "The package also includes a daily extra hot lunch option, a lunch dessert and a drink with lunch and dinner; posts and video say 'plus extras' rather than '$42 a day for hot breakfasts'.",
+    "Other providers' fees (pay TV, barista coffee, high tea) are from ABC's review of price lists; providers not named in the video.",
+    "No named-person footage: ParlView unreachable and Wikimedia Commons searched without a usable photo; Fiona Willer appears as a quote card. Stock footage is generic file footage, not of Bupa homes or residents."
+  ],
+  "notes": "On-demand package (slot request). It replaces this morning's on-demand Qantas package as latest/package-request.json and 2026-11-11/*-request files (the Qantas package remains in the outbox git history); today's slot 1 (AI safety regulator) is unchanged. aph.gov.au: NOT reachable from this run. curl to https://www.aph.gov.au/ and parlinfo.aph.gov.au got 'CONNECT tunnel failed, response 403' from the cloud proxy (logged as a policy denial at 11:04am AEDT), so the allowed-domains change has not taken effect for this environment yet, or the session predates it. tools/parlview.cjs search failed ('fetch failed') and no clip download was attempted. The story (an ABC investigation of aged care fees) had no parliamentary proceedings to use anyway. Footage used instead: Pixabay B-roll (eggs, cereal, aged care corridor, hands, TV remote, cafe, carer). Cover: cover.png and cover-vertical.png, headline 'Bupa charges extra for hot breakfasts', number $42 (Bupa dining package, per day), still a frame of KunalKapoor7 / Pixabay egg footage. Video 47.7s, AI narrator, 7 sources, real footage 59%.",
+  "video_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-11/video-request.mp4",
+  "captions_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-11/captions-request.srt",
+  "cover_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-11/cover-request.png",
+  "cover_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-11/cover-vertical-request.png",
+  "video_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-11/video-vertical-request.mp4",
+  "published_at": "2026-11-11T00:14:04.889Z"
+}

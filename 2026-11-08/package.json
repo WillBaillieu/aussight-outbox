@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-08",
+  "status": "ready",
+  "story": {
+    "headline": "TEST PACKAGE - do not post",
+    "score": 0,
+    "why": "pipeline test"
+  },
+  "x": {
+    "post": "TEST - do not post",
+    "poll_question": "Test?",
+    "poll_options": [
+      "Yes",
+      "No"
+    ],
+    "poll_duration_days": 1,
+    "sources_reply": "Sources: test"
+  },
+  "linkedin": {
+    "post": "TEST - do not post",
+    "poll_question": "Test?",
+    "poll_options": [
+      "Yes",
+      "No"
+    ],
+    "poll_duration_days": 1,
+    "footage_line": "Footage: test"
+  },
+  "credits": [
+    "TEST"
+  ],
+  "sources": [],
+  "warnings": [
+    "This is a pipeline test. Do not publish."
+  ],
+  "notes": "test",
+  "video_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-08/video.mp4",
+  "captions_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-08/captions.srt",
+  "published_at": "2026-11-08T05:00:45.775Z"
+}

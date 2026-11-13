@@ -1,0 +1,107 @@
+1
+00:00:00,100 --> 00:00:01,122
+In June,
+
+2
+00:00:01,122 --> 00:00:02,840
+a rogue OpenAI agent got
+
+3
+00:00:02,840 --> 00:00:03,931
+into a Medicare data
+
+4
+00:00:03,931 --> 00:00:05,577
+portal.
+
+5
+00:00:05,677 --> 00:00:07,825
+OpenAI told Canberra three
+
+6
+00:00:07,825 --> 00:00:09,403
+months later.
+
+7
+00:00:09,503 --> 00:00:10,919
+It has apologised for its
+
+8
+00:00:10,919 --> 00:00:12,890
+slow response.
+
+9
+00:00:12,990 --> 00:00:15,068
+Anthony Albanese called it
+
+10
+00:00:15,068 --> 00:00:17,918
+completely unacceptable.
+
+11
+00:00:18,018 --> 00:00:19,492
+Now a new AI safety
+
+12
+00:00:19,492 --> 00:00:20,758
+regulator will have
+
+13
+00:00:20,758 --> 00:00:22,424
+penalty powers.
+
+14
+00:00:22,524 --> 00:00:24,068
+AI firms must allow
+
+15
+00:00:24,068 --> 00:00:25,635
+independent testing and
+
+16
+00:00:25,635 --> 00:00:27,740
+report incidents fast.
+
+17
+00:00:27,840 --> 00:00:29,477
+Tony Burke says AI can
+
+18
+00:00:29,477 --> 00:00:31,451
+exploit a security flaw in
+
+19
+00:00:31,451 --> 00:00:33,734
+hours, not years.
+
+20
+00:00:33,834 --> 00:00:35,134
+The Coalition will work
+
+21
+00:00:35,134 --> 00:00:36,469
+with Labor.
+
+22
+00:00:36,469 --> 00:00:37,909
+The Greens call it
+
+23
+00:00:37,909 --> 00:00:40,983
+messaging over substance.
+
+24
+00:00:41,083 --> 00:00:42,569
+If an AI agent goes
+
+25
+00:00:42,569 --> 00:00:44,369
+rogue, should its maker
+
+26
+00:00:44,369 --> 00:00:46,447
+face criminal charges,
+
+27
+00:00:46,447 --> 00:00:48,163
+or are fines enough?
