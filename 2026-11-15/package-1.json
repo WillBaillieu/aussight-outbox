@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-15",
+  "slot": 1,
+  "status": "ready",
+  "requested": null,
+  "focus": "tech-ai",
+  "political_or_sensitive": false,
+  "story": {
+    "headline": "A US air traffic control communications failure halted every departure nationwide for more than four hours; Washington blames ageing routers and is checking whether a new AI routing tool played a part",
+    "score": 8,
+    "why": "Freshest qualifying story. FAA nationwide ground stop 3:54pm-8:15pm ET Fri 13 Nov (7:54am-12:15pm AEDT Sat 14 Nov); ABC News follow-up published 5:40am AEDT Sun 15 Nov; run at 6:48am AEDT Sun 15 Nov. Australian relevance 6 (Sydney-US flights briefly held, Australians stranded), debate 8 (old hardware vs new AI in safety-critical systems), measurable 9, timeliness 9. Passed over: Nvidia CEO Jensen Huang resignation (12 Nov US, older than 24h, no new development), APRA frontier-AI warning (13 Nov, older than 24h), Albanese/Bowen COP31 hot-mic remark (low substance), Zelenskyy NATO remarks (thin Australian angle)."
+  },
+  "discussion_question": "Should air traffic control be rebuilt fast, or is rushing in new AI the bigger risk?",
+  "x": {
+    "post": "JUST IN: A US air traffic control failure halted every departure nationwide for over four hours. Washington blames old routers and is checking if a new AI tool played a part.\n\nShould air traffic control be rebuilt fast, or is rushing in new AI the bigger risk?\n\n#AusSight #AI",
+    "poll_question": "Should air traffic control be rebuilt fast, or is rushing in new AI the bigger risk?",
+    "poll_options": [
+      "Rebuild fast",
+      "Go slow on new AI",
+      "Unsure"
+    ],
+    "poll_duration_days": 3,
+    "sources_reply": "Sources: https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848 https://www.abc.net.au/news/2026-11-14/australians-stranded-in-us-amid-flight-cancellations-chaos/107385998 https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next  Footage: Pixabay; photos US DOT, US Senate via Wikimedia Commons"
+  },
+  "linkedin": {
+    "post": "1.5 million passengers were due to fly from US airports on Friday evening when every departure was halted for more than four hours.\n\nUS Transportation Secretary Sean Duffy blames ageing routers and switches that overloaded with data. Homeland Security says there is no sign of a cyber attack so far, and is checking whether a new AI routing tool played a part.\n\nFlights from Sydney to the US were briefly held, and some Australians were stranded.\n\nShould air traffic control be rebuilt fast, or is rushing in new AI the bigger risk? Tell us what you think below.\n\n#AusSight #AI #Aviation",
+    "poll_question": "Should air traffic control be rebuilt fast, or is rushing in new AI the bigger risk?",
+    "poll_options": [
+      "Rebuild fast",
+      "Go slow on new AI",
+      "Unsure"
+    ],
+    "poll_duration_days": 3,
+    "footage_line": "Footage: Pixabay; photos: US DOT, US Senate via Wikimedia Commons"
+  },
+  "results_followup_template": "AusSight poll result: {top_option} led with {top_pct}% of {total_votes} votes on whether air traffic control should be rebuilt fast or go slow on new AI.",
+  "credits": [
+    "Life-Of-Vids / Pixabay (videos 3586, 10874, 991)",
+    "mariohagen / Pixabay (video 47339)",
+    "Drag0negr0 / Pixabay (video 159833)",
+    "Stuck1 / Pixabay (video 32945)",
+    "Activedia / Pixabay (video 1383)",
+    "phlyingdoctor / Pixabay (video 199161, cover still)",
+    "Sean Duffy official portrait: US Department of Transportation / Wikimedia Commons (public domain)",
+    "Markwayne Mullin official Senate photo: United States Senate / Wikimedia Commons (public domain)"
+  ],
+  "sources": [
+    "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848",
+    "https://www.abc.net.au/news/2026-11-14/australians-stranded-in-us-amid-flight-cancellations-chaos/107385998",
+    "https://www.abc.net.au/news/2026-11-14/what-we-know-about-the-us-flight-groundstop/107385910",
+    "https://www.abc.net.au/news/2026-11-15/us-airlines-more-disruptions-ahead-of-thanksgiving/107386452",
+    "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next",
+    "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue",
+    "https://www.click2houston.com/news/local/2026/11/13/faa-investigating-whether-new-ai-technology-contributed-to-nationwide-ground-stop/"
+  ],
+  "warnings": [
+    "Cause not officially confirmed: 'old routers' is US Transportation Secretary Sean Duffy's account and is attributed to him in the video and posts.",
+    "Duration: ABC News (US) gives 3:54pm-8:15pm ET (about 4h21m); ABC News Australia reports 'more than five hours'. Video and posts say 'more than four hours'.",
+    "Single-source figures: US$12.5B approved by Congress and US$30.1B requested (Al Jazeera, 13 Nov 2026).",
+    "Cancellation totals conflict between reports (about 4,700 to almost 10,000), so none are used.",
+    "Whether the new AI tool (SMART) contributed is under review; officials have not established a link and its developer denies one."
+  ],
+  "notes": "Cover files: cover.png (1080x1350) and cover-vertical.png (1080x1920), still from Pixabay video 199161 (phlyingdoctor). No ParlView or speaking clips: this is a US story with no Australian parliamentary footage; Duffy and Mullin are shown in genuine official portraits with name supers. Mullin's photo is his 2022 Senate portrait (he is now Homeland Security Secretary). Wikimedia Commons was slow (rate-limited) but both photos downloaded. Topic is adjacent to yesterday's Microsoft outage video (critical-system failure), but a different event, country and debate (air traffic control, AI tool). Video 52.4s, 10 beats, 2 evidence cards (chain, ledger).",
+  "video_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-15/video-1.mp4",
+  "captions_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-15/captions-1.srt",
+  "cover_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-15/cover-1.png",
+  "cover_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-15/cover-vertical-1.png",
+  "video_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-15/video-vertical-1.mp4",
+  "published_at": "2026-11-14T20:21:44.517Z"
+}

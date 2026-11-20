@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-17",
+  "slot": 1,
+  "status": "ready",
+  "requested": null,
+  "focus": "politics",
+  "political_or_sensitive": true,
+  "story": {
+    "headline": "Australia is one of ten governments to sign the US-led San Francisco Declaration to protect AI supply chains, as Albanese meets Trump at the Quad in Manila tonight",
+    "score": 9,
+    "why": "Australian relevance 3/3 (Australia is a signatory; China is its largest trading partner); debate 2/2 (closer US alignment vs exposure to Beijing, with ASEAN neighbours backing China's rival body); measurable 2/2 (10 signatories, five working groups, IEA: China >90% of rare earth refining); timeliness 2/3 incl. +1 (signed Sun 15 Nov US time, State Department release 15 Nov; first reported by PTI 6pm AEDT Mon 16 Nov and ABC News 5:00am AEDT Tue 17 Nov; Quad leaders meet in Manila this evening). Beat Coles cyber incident (7, little detail), PBO mining-tax costing (7, counterfactual) and Microsoft compensation (6, repeat topic)."
+  },
+  "discussion_question": "Does Washington's AI pact make Australia more secure, or more exposed to Beijing?",
+  "x": {
+    "post": "JUST IN: Australia has signed a US-led pact to protect the chips, minerals and data centres behind AI, alongside the US, Japan, India, the UK and five others. Does Washington's AI pact make Australia more secure, or more exposed to Beijing? #AusSight #geopolitics",
+    "poll_question": "Does Washington's AI pact make Australia more secure, or more exposed to Beijing?",
+    "poll_options": [
+      "More secure",
+      "More exposed",
+      "A bit of both"
+    ],
+    "poll_duration_days": 3,
+    "sources_reply": "Sources: https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-san-francisco-declaration-on-the-secure-foundations-of-enduring-prosperity https://www.abc.net.au/news/2026-11-17/australia-signs-us-led-ai-supply-chain-agreement/107392252 https://casrai.org/news/pax-silica-san-francisco-declaration-2026 https://www.greaterkashmir.com/world/india-us-eight-other-nations-sign-declaration-to-safeguard-ai-supply-chains-12813393 https://www.iea.org/news/new-projects-partnerships-and-policies-are-needed-to-address-supply-chain-risks-for-rare-earth-elements  Footage: onijake, Dimitri_K, jdwork, MrWashingt0n, munir92, Evgeniy__Mironov, Squirrel_photos, Engin_Akyurt, postcardtrip, TPMotion, jaypeerazon, nohnohsanpedro / Pixabay"
+  },
+  "linkedin": {
+    "post": "Ten governments, Australia among them, have signed the San Francisco Declaration: a US-led pact to protect the chips, minerals, power and data centres behind AI.\n\nCanberra says it is about securing the supply chains Australia relies on. Olivia Shen of the United States Studies Centre says it binds Australia more closely to the US. Indonesia and Malaysia have joined China's rival AI body, and the IEA says China does more than 90% of rare earth refining.\n\nDoes Washington's AI pact make Australia more secure, or more exposed to Beijing? Tell us what you think below.\n\n#AusSight #geopolitics #AI",
+    "poll_question": null,
+    "poll_options": null,
+    "poll_duration_days": null,
+    "footage_line": "Footage: onijake, Dimitri_K, jdwork, MrWashingt0n, munir92, Evgeniy__Mironov, Squirrel_photos, Engin_Akyurt, postcardtrip, TPMotion, jaypeerazon, nohnohsanpedro / Pixabay"
+  },
+  "results_followup_template": "On X, {secure_pct}% said the pact makes Australia more secure, {exposed_pct}% more exposed and {both_pct}% a bit of both, from {votes} votes.",
+  "credits": [
+    "onijake / Pixabay (circuit hardware)",
+    "Dimitri_K / Pixabay (robotic production line)",
+    "jdwork / Pixabay (San Francisco and Golden Gate; also cover still)",
+    "MrWashingt0n / Pixabay (data centre)",
+    "munir92 / Pixabay (open-cut mine)",
+    "Evgeniy__Mironov / Pixabay (cargo ships)",
+    "Squirrel_photos / Pixabay (Parliament House, Canberra)",
+    "Engin_Akyurt / Pixabay (port cranes)",
+    "postcardtrip / Pixabay (container port)",
+    "TPMotion / Pixabay (Jakarta)",
+    "jaypeerazon / Pixabay (Kuala Lumpur)",
+    "nohnohsanpedro / Pixabay (Manila)"
+  ],
+  "sources": [
+    "https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-san-francisco-declaration-on-the-secure-foundations-of-enduring-prosperity",
+    "https://www.abc.net.au/news/2026-11-17/australia-signs-us-led-ai-supply-chain-agreement/107392252",
+    "https://casrai.org/news/pax-silica-san-francisco-declaration-2026",
+    "https://www.greaterkashmir.com/world/india-us-eight-other-nations-sign-declaration-to-safeguard-ai-supply-chains-12813393",
+    "https://www.iea.org/news/new-projects-partnerships-and-policies-are-needed-to-address-supply-chain-risks-for-rare-earth-elements",
+    "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/17/five-asean-countries-among-29-founding-members-of-new-global-ai-organisation",
+    "https://www.theweek.in/news/india/2026/11/16/how-the-manila-asean-meet-will-signal-if-india-is-a-priority-or-a-partner-to-us.html"
+  ],
+  "warnings": [
+    "LinkedIn poll skipped (political/sensitive); use comments.",
+    "The IEA's 'above 90%' figure is China's share of rare earth refining specifically; ABC's wider claim (over 90% for several minerals incl. graphite and gallium) was not used.",
+    "Olivia Shen's view ('continues to bind us more closely to the US') and the Albanese office's 'supply chains we rely on are secure' line are single-source (ABC News, 17 Nov 2026).",
+    "ABC lists Vietnam among ASEAN backers of China's rival AI body; The Star's founding-member list (16 Jul 2026) does not, so the video and posts name only Indonesia and Malaysia.",
+    "No real person is shown on screen: Wikimedia Commons was rate-limited (HTTP 429) all run, so the Albanese portrait could not be downloaded, and ParlView was unreachable.",
+    "Video is 56.1s, slightly above the 40-55s target (within the 60s maximum)."
+  ],
+  "notes": "Cover: cover.png (1080x1350) and cover-vertical.png (1080x1920), headline 'Australia joins a US AI pact. | Safer, or more exposed?', number '10' (governments signed, US State Department), still is a frame of the San Francisco / Golden Gate clip (jdwork / Pixabay). Footage I couldn't get: Commons portrait of Albanese (File:Anthony Albanese Portrait 2022.jpg, CC BY 4.0) failed with 429 rate limits after repeated retries; ParlView search failed (fetch failed). Used place and industry footage instead; no quote card was needed. Added Parliament House, Canberra (Pixabay 15525) to the standing library as places/parliament-house-canberra. The Quad meeting in Manila is due Tuesday evening 17 Nov; check before posting late in case of any change. AI narrator (ElevenLabs).",
+  "video_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-17/video-1.mp4",
+  "captions_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-17/captions-1.srt",
+  "cover_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-17/cover-1.png",
+  "cover_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-17/cover-vertical-1.png",
+  "video_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-17/video-vertical-1.mp4",
+  "published_at": "2026-11-16T20:37:43.001Z"
+}

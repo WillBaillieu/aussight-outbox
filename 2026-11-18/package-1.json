@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-18",
+  "slot": 1,
+  "status": "ready",
+  "requested": null,
+  "focus": "tech-ai",
+  "political_or_sensitive": false,
+  "story": {
+    "headline": "Jensen Huang says he would return as Nvidia CEO if the board asked, days after quitting; a source tells CNBC the board is not considering it, as Nvidia reports its first results without him",
+    "score": 8,
+    "why": "Australian relevance/impact 1/3 (US AI story in scope under STUDIO-EDITORIAL; Nvidia drives the global AI trade, but no verified Australian-specific angle was found, so none was added); debate 2/2 (founder back vs board moving on after a scandal and inquiry); measurable 2/2 (shares down about 35% from the 6 Oct record close to 16 Nov close; 12 Nov SEC filing; 1 Dec House interview); timeliness 3/3 incl. +1 (Huang statement published 11:30am EST 17 Nov = 3:30am AEDT 18 Nov, Fox Business; Forbes 1:24pm EST; Q3 FY27 results due 1:20pm PT 17 Nov = 8:20am AEDT 18 Nov per Nvidia's 12 Nov 8-K). Beat: Quad leaders' summit outcomes in Manila (ABC 12:59am AEDT 18 Nov; would score 9 but repeats yesterday's Quad/US-alignment-vs-Beijing package and question), RBA minutes 6-3 split (7, published ~20 hours earlier), David Jones administrators' report (7, repeat of 12 Nov topic)."
+  },
+  "discussion_question": "If Nvidia holds up without him, should the board bring back the founder who quit in scandal?",
+  "x": {
+    "post": "JUST IN: Jensen Huang says he'd return as Nvidia CEO if the board asked, days after quitting. A source told CNBC the board isn't considering it. If Nvidia holds up without him, should the board bring back the founder who quit in scandal? #AusSight #AI",
+    "poll_question": "If Nvidia holds up without him, should the board bring back the founder who quit in scandal?",
+    "poll_options": [
+      "Bring him back",
+      "Move on without him",
+      "Wait for the inquiry"
+    ],
+    "poll_duration_days": 3,
+    "sources_reply": "Sources: https://www.foxbusiness.com/markets/jensen-huang-willing-return-nvidia-ceo-own-my-mistakes-completely https://www.forbes.com/sites/alisondurkee/2026/11/17/jensen-huang-ousted-timeline-of-the-nvidia-scandal-as-he-makes-first-public-statement/ https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html https://www.euronews.com/2026/11/13/nvidia-has-lost-nearly-2tn-in-value-what-could-it-be-worth-without-jensen-huang  Footage: Anders Eidesvik, SiliconANGLE theCUBE / Wikimedia Commons; izhar-ahamed, Danil_Shostak, DesignScape, guardiola86, MrWashingt0n, Dimitri_K, mephala1980, agmclellan / Pixabay"
+  },
+  "linkedin": {
+    "post": "About 35%: how far Nvidia's shares fell from October's record close to Monday's close, as Jensen Huang's exit shook the AI chipmaker.\n\nHuang quit as CEO last week amid a board inquiry. Now he says he \"would be honored\" to return if asked. A source told CNBC the board isn't considering it. Interim CEO Colette Kress delivers her first results this morning, Australian time, and Bloomberg Intelligence says his exit needn't change earnings forecasts.\n\nIf Nvidia holds up without him, should the board bring back the founder who quit in scandal? Tell us what you think below.\n\n#AusSight #AI",
+    "poll_question": "If Nvidia holds up without him, should the board bring back the founder who quit in scandal?",
+    "poll_options": [
+      "Bring him back",
+      "Move on without him",
+      "Wait for the inquiry"
+    ],
+    "poll_duration_days": 3,
+    "footage_line": "Footage: Anders Eidesvik, SiliconANGLE theCUBE / Wikimedia Commons; Pixabay contributors"
+  },
+  "results_followup_template": "{result_pct}% of AusSight respondents chose \"{top_option}\" when asked whether Nvidia's board should bring back Jensen Huang ({votes} votes).",
+  "credits": [
+    "Jensen Huang photo (cover and video): Anders Eidesvik / Wikimedia Commons, CC BY-SA 4.0",
+    "Colette Kress photo: SiliconANGLE theCUBE / Wikimedia Commons, CC BY 4.0",
+    "izhar-ahamed / Pixabay",
+    "Danil_Shostak / Pixabay",
+    "DesignScape / Pixabay",
+    "guardiola86 / Pixabay",
+    "MrWashingt0n / Pixabay",
+    "Dimitri_K / Pixabay",
+    "mephala1980 / Pixabay",
+    "agmclellan / Pixabay"
+  ],
+  "sources": [
+    "https://www.foxbusiness.com/markets/jensen-huang-willing-return-nvidia-ceo-own-my-mistakes-completely",
+    "https://www.forbes.com/sites/alisondurkee/2026/11/17/jensen-huang-ousted-timeline-of-the-nvidia-scandal-as-he-makes-first-public-statement/",
+    "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
+    "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+    "https://www.euronews.com/2026/11/13/nvidia-has-lost-nearly-2tn-in-value-what-could-it-be-worth-without-jensen-huang",
+    "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-live-updates-commentary-213634774.html",
+    "https://www.newsweek.com/nvidia-first-post-huang-earnings-12726500"
+  ],
+  "warnings": [
+    "Nvidia's Q3 FY2027 results were not yet published when this package was made (due 8:20am AEDT Wed 18 Nov). The video and posts say the results 'land this morning, Australian time' and do not state any result figures. Do not add result figures to the posts unless verified.",
+    "Share prices are US$ New York closes: record close $239.24 on 6 Oct 2026 (Euronews, single source) and $156.10 on Mon 16 Nov 2026 (Yahoo Finance, single source); the ~35% fall is calculated from those two closes. Tuesday 17 Nov close not included.",
+    "'Board not considering bringing him back' rests on an unnamed source reported by CNBC on 16 Nov (US), also reported by Forbes; it is attributed as such.",
+    "Video runs 56.8s, above the 40-50s target but within the 60s maximum."
+  ],
+  "notes": "Story picked at about 7am AEDT. Huang's quote is from his written statement of 17 Nov (US), as reported by Fox Business and Forbes; the full statement text was not available, so only the reported words are used. No financial advice; analyst view attributed to Bloomberg Intelligence (Kunjan Sobhani, via Euronews). The scandal is described only as a board inquiry and resignation; no allegations about other people are named. No verified Australian-specific angle was found (an AustralianSuper Nvidia holding figure was single-source and undated, so left out). Cover files: cover.png and cover-vertical.png, built on the Commons photo of Jensen Huang (Anders Eidesvik, CC BY-SA 4.0). Wikimedia Commons was heavily rate-limited: the Nvidia headquarters photos and a landscape Huang photo could not be downloaded, so file footage of chips, New York and markets was used; the Kress photo is a 2017 still and is labelled 'File photo, 2017'. No ParlView or speaking clips (US story).",
+  "video_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-18/video-1.mp4",
+  "captions_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-18/captions-1.srt",
+  "cover_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-18/cover-1.png",
+  "cover_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-18/cover-vertical-1.png",
+  "video_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-18/video-vertical-1.mp4",
+  "published_at": "2026-11-17T21:14:55.223Z"
+}

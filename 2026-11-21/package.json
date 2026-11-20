@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-21",
+  "slot": 1,
+  "status": "ready",
+  "requested": null,
+  "focus": "politics",
+  "political_or_sensitive": true,
+  "story": {
+    "headline": "Australia and China agree to set up an AI dialogue at their annual leaders' meeting in Beijing, days after Australia signed the US-led San Francisco Declaration to secure AI supply chains",
+    "score": 9,
+    "why": "Aus relevance 3/3 (PM-level deal with largest trading partner), debate 3/3 (hedging between Washington and Beijing on AI within one week), measurable 1/2 (joint statement text, 10-country US pact), timeliness 2/2 (+1 under 12h). Joint outcomes statement issued Fri 20 Nov 2026 (China embassy page 23:40 Beijing time); ABC report posted 6:12am AEDT Sat 21 Nov 2026. New development distinct from the 16 Nov (APEC photo) and 17 Nov (US AI pact) packages. COP31 (no final deal yet) and BHP's 13% weekly fall (no company news) scored lower."
+  },
+  "discussion_question": "Is Australia smart to talk AI with both Washington and Beijing, or trying to have it both ways?",
+  "x": {
+    "post": "JUST IN: Australia and China agree to set up an AI dialogue on safety, governance and use, days after Canberra signed a US-led pact to secure AI supply chains.\n\nIs Australia smart to talk AI with both Washington and Beijing, or trying to have it both ways?\n\n#AusSight #auspol",
+    "poll_question": "Is Australia smart to talk AI with both Washington and Beijing, or trying to have it both ways?",
+    "poll_options": [
+      "Smart balancing",
+      "Having it both ways",
+      "Too early to tell"
+    ],
+    "poll_duration_days": 3,
+    "sources_reply": "Sources: https://sl.china-embassy.gov.cn/eng/zgyw/202611/t20261120_12064343.htm https://www.abc.net.au/news/2026-11-21/australia-strikes-deal-on-ai-talks-with-china-after-apec/107411592 https://www.abc.net.au/news/2026-11-17/australia-signs-us-led-ai-supply-chain-agreement/107392252  Footage: Number 10, David Foote (AUSPIC/DPS), Kremlin.ru via Wikimedia Commons; Pixabay"
+  },
+  "linkedin": {
+    "post": "Two AI deals, one week.\n\nOn Friday in Beijing, Anthony Albanese and Premier Li Qiang agreed to establish an AI dialogue \"to exchange respective views on AI safety, governance and application\", their joint statement says.\n\nDays earlier, Australia was one of 10 countries to sign the US-led San Francisco Declaration to secure AI supply chains.\n\nAlbanese says Australia can \"manage our differences, but not be defined by them\". Analysts point to China's grip on critical minerals refining.\n\nIs Australia smart to talk AI with both Washington and Beijing, or trying to have it both ways?\n\nTell us what you think below.\n\n#AusSight #auspol #AI",
+    "poll_question": null,
+    "poll_options": null,
+    "poll_duration_days": null,
+    "footage_line": "Footage: Wikimedia Commons (Number 10, AUSPIC, Kremlin.ru); Pixabay"
+  },
+  "results_followup_template": "{result_pct}% of AusSight respondents said Australia's AI talks with both Washington and Beijing are {top_option}.",
+  "credits": [
+    "Number 10 / Wikimedia Commons (CC BY 2.0)",
+    "David Foote (AUSPIC/DPS) / Wikimedia Commons (CC BY 4.0)",
+    "Kremlin.ru / Wikimedia Commons (CC BY 4.0)",
+    "InOldNews / Pixabay",
+    "jeremy888 / Pixabay (incl. cover still)",
+    "olenchic / Pixabay",
+    "LynX_BGW / Pixabay",
+    "bellergy / Pixabay"
+  ],
+  "sources": [
+    "https://sl.china-embassy.gov.cn/eng/zgyw/202611/t20261120_12064343.htm",
+    "https://www.abc.net.au/news/2026-11-21/australia-strikes-deal-on-ai-talks-with-china-after-apec/107411592",
+    "https://www.abc.net.au/news/2026-11-17/australia-signs-us-led-ai-supply-chain-agreement/107392252",
+    "https://www.thestandard.com.hk/china/article/349115/Xi-hails-comprehensive-turnaround-in-China-Australia-ties",
+    "https://english.news.cn/20261120/2412502f88a4450caaac7bb6775ad30a/c.html",
+    "https://www.dfat.gov.au/geo/china"
+  ],
+  "warnings": [
+    "LinkedIn poll skipped (political/sensitive); use comments.",
+    "No date, venue or lead officials have been announced for the AI dialogue; the joint statement only says it will be established.",
+    "'90%+ of refining for several critical minerals' is from ABC News (17 Nov 2026), single source.",
+    "Xi's 'comprehensive turnaround' wording is Reuters' translation; ABC reported it as 'complete turnaround'.",
+    "Video runs 55.2s, at the top of the 40–55s range."
+  ],
+  "notes": "Cover: cover.png and cover-vertical.png ('One week, two AI deals. | Can Australia have both?') over a Beijing CBD still (jeremy888 / Pixabay); no cover number (no strong single figure). No ParlView: Parliament footage of the PM on this was not available (he was abroad); no speaking clip, so real people are shown in Commons photos with name supers (Albanese x2, Xi). No licensed photo of Li Qiang was obtained, so he is named in narration only. Wikimedia Commons was heavily rate-limiting this run; photos were fetched by direct file URL after retries. Added Albanese (2 photos) and Xi Jinping to footage/library/people. A trade figure (A$326bn) appeared only on an aggregator and was left out. Narration is an AI voice.",
+  "video_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-21/video-1.mp4",
+  "captions_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-21/captions-1.srt",
+  "cover_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-21/cover-1.png",
+  "cover_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-21/cover-vertical-1.png",
+  "video_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-21/video-vertical-1.mp4",
+  "published_at": "2026-11-20T21:13:13.165Z"
+}

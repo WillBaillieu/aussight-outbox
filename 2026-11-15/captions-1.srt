@@ -1,0 +1,111 @@
+1
+00:00:00,100 --> 00:00:01,365
+On Friday,
+
+2
+00:00:01,365 --> 00:00:03,049
+all US departures stopped
+
+3
+00:00:03,049 --> 00:00:04,898
+for over four hours.
+
+4
+00:00:04,998 --> 00:00:06,171
+One and a half million
+
+5
+00:00:06,171 --> 00:00:07,529
+passengers were due to fly
+
+6
+00:00:07,529 --> 00:00:09,273
+that evening.
+
+7
+00:00:09,373 --> 00:00:10,569
+Washington blames old
+
+8
+00:00:10,569 --> 00:00:12,136
+routers that overloaded
+
+9
+00:00:12,136 --> 00:00:14,170
+with data.
+
+10
+00:00:14,270 --> 00:00:15,849
+Sean Duffy called it an
+
+11
+00:00:15,849 --> 00:00:18,049
+incredibly old system.
+
+12
+00:00:18,149 --> 00:00:19,995
+Homeland Security sees no
+
+13
+00:00:19,995 --> 00:00:21,411
+sign of a cyber attack
+
+14
+00:00:21,411 --> 00:00:23,182
+so far.
+
+15
+00:00:23,282 --> 00:00:24,420
+It is checking whether a
+
+16
+00:00:24,420 --> 00:00:27,191
+new AI tool played a part.
+
+17
+00:00:27,291 --> 00:00:28,731
+Congress approved twelve
+
+18
+00:00:28,731 --> 00:00:30,449
+and a half billion.
+
+19
+00:00:30,449 --> 00:00:31,796
+Thirty billion more is
+
+20
+00:00:31,796 --> 00:00:33,186
+sought.
+
+21
+00:00:33,286 --> 00:00:34,610
+Flights from Sydney to the
+
+22
+00:00:34,610 --> 00:00:38,214
+US were briefly held.
+
+23
+00:00:38,314 --> 00:00:39,603
+Some Australians were left
+
+24
+00:00:39,603 --> 00:00:42,040
+stranded at US airports.
+
+25
+00:00:42,140 --> 00:00:43,440
+Should air traffic control
+
+26
+00:00:43,440 --> 00:00:45,321
+be rebuilt fast,
+
+27
+00:00:45,321 --> 00:00:46,412
+or is rushing in new
+
+28
+00:00:46,412 --> 00:00:48,663
+AI the bigger risk?

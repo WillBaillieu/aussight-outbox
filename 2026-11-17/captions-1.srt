@@ -1,0 +1,111 @@
+1
+00:00:00,100 --> 00:00:01,110
+Ten nations,
+
+2
+00:00:01,110 --> 00:00:02,515
+Australia included,
+
+3
+00:00:02,515 --> 00:00:03,537
+just signed a pact to
+
+4
+00:00:03,537 --> 00:00:05,681
+guard AI's supply chains.
+
+5
+00:00:05,781 --> 00:00:07,406
+The Quad partners,
+
+6
+00:00:07,406 --> 00:00:09,241
+two Gulf states and four
+
+7
+00:00:09,241 --> 00:00:11,362
+others.
+
+8
+00:00:11,462 --> 00:00:13,505
+It aims to protect chips,
+
+9
+00:00:13,505 --> 00:00:16,939
+minerals and data centres.
+
+10
+00:00:17,039 --> 00:00:18,525
+The declaration's key line
+
+11
+00:00:18,525 --> 00:00:20,060
+is blunt.
+
+12
+00:00:20,160 --> 00:00:21,321
+Canberra calls it
+
+13
+00:00:21,321 --> 00:00:24,253
+supply-chain security.
+
+14
+00:00:24,353 --> 00:00:26,292
+The IEA says China refines
+
+15
+00:00:26,292 --> 00:00:27,824
+over ninety per cent of
+
+16
+00:00:27,824 --> 00:00:29,647
+rare earths.
+
+17
+00:00:29,747 --> 00:00:32,185
+Analyst Olivia Shen says
+
+18
+00:00:32,185 --> 00:00:33,369
+it ties us closer to
+
+19
+00:00:33,369 --> 00:00:35,641
+Washington.
+
+20
+00:00:35,741 --> 00:00:37,808
+Indonesia and Malaysia
+
+21
+00:00:37,808 --> 00:00:41,558
+joined China's rival AI body.
+
+22
+00:00:41,658 --> 00:00:43,388
+Tonight, Albanese meets
+
+23
+00:00:43,388 --> 00:00:45,222
+Trump at the Quad in
+
+24
+00:00:45,222 --> 00:00:46,481
+Manila.
+
+25
+00:00:46,581 --> 00:00:48,125
+Does Washington's AI pact
+
+26
+00:00:48,125 --> 00:00:49,089
+make Australia more
+
+27
+00:00:49,089 --> 00:00:51,225
+secure, or more exposed to
+
+28
+00:00:51,225 --> 00:00:52,361
+Beijing?

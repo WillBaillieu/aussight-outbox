@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-16",
+  "slot": 1,
+  "status": "ready",
+  "requested": null,
+  "focus": "politics",
+  "political_or_sensitive": true,
+  "story": {
+    "headline": "Albanese won't rule out joining Putin in the APEC leaders' family photo in Shenzhen this week, saying he will consider host China's wishes",
+    "score": 8,
+    "why": "Published 6:23pm AEDT Sun 15 Nov by ABC News (AAP/Canberra Times 4:38pm AEDT); about 12.5 hours old at 6:48am AEDT Mon 16 Nov. APEC leaders meet 18–19 Nov in Shenzhen and the Kremlin (Peskov, via AFP) confirms a Putin–Trump–Xi meeting on 19 Nov. Scores: Australian relevance 8 (the PM's own conduct, China as largest trading partner, Ukraine support), debate 9 (clear yes/no tension with a recent precedent: the G20 Atlanta photo dropped over Lavrov), measurable outcome 7 (he either stands in the photo or not this week), timeliness 8. Chosen over the Philippines defence arrangement (8, folded in as context), the Megaspeed/Alice Huang espionage follow-up (7, US-centric, days old) and the superannuation $5 trillion explainer (6, no new development). Politics also rebalances three tech-AI videos in a row."
+  },
+  "discussion_question": "Should Albanese join Putin in the APEC photo to respect China, or stay out as Europe did?",
+  "x": {
+    "post": "JUST IN: Albanese won't rule out standing beside Vladimir Putin in this week's APEC family photo in China, saying he'll weigh the host's wishes. Should Albanese join Putin in the APEC photo to respect China, or stay out as Europe did? #AusSight #geopolitics",
+    "poll_question": "Should Albanese join the APEC family photo with Putin?",
+    "poll_options": [
+      "Join the photo",
+      "Stay out of it"
+    ],
+    "poll_duration_days": 3,
+    "sources_reply": "Sources: https://www.abc.net.au/news/2026-11-15/albanese-will-not-rule-out-apec-photo-with-putin/107387814 https://www.canberratimes.com.au/story/9391656/awkward-moment-awaits-pm-with-potential-putin-photo/ https://www.sarawaktribune.com/moscow-confirms-trump-xi-putin-meeting-in-china/ https://en.wikipedia.org/wiki/APEC_China_2026 https://aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov  Footage: 胡佳恒, aghyadnajjar, nohnohsanpedro, 珠海嘉措, blackmarketmusic, ClickingLoop / Pixabay"
+  },
+  "linkedin": {
+    "post": "One photo, one awkward line-up. In Manila on Sunday, Prime Minister Anthony Albanese would not rule out joining Vladimir Putin in the APEC leaders' family photo in Shenzhen this week, saying he would consider host China's wishes.\n\nHe also called Russia's invasion of Ukraine \"illegal and immoral\". The Kremlin says Putin will meet Donald Trump and Xi Jinping at the summit. Last month the G20 foreign ministers' photo in Atlanta was dropped after European ministers refused to stand with Sergey Lavrov.\n\nShould Albanese join Putin in the APEC photo to respect China, or stay out as Europe did? Tell us what you think below.\n\n#AusSight #geopolitics",
+    "poll_question": null,
+    "poll_options": null,
+    "poll_duration_days": null,
+    "footage_line": "Footage: 胡佳恒, aghyadnajjar, nohnohsanpedro, 珠海嘉措, blackmarketmusic, ClickingLoop / Pixabay"
+  },
+  "results_followup_template": "On X, {join_pct}% said Albanese should join the APEC family photo with Putin and {stay_pct}% said he should stay out, from {votes} votes.",
+  "credits": [
+    "胡佳恒 / Pixabay (Shenzhen street, Pixabay Content License)",
+    "aghyadnajjar / Pixabay (Kremlin; Red Square)",
+    "nohnohsanpedro / Pixabay (Manila aerial; Manila Bay)",
+    "珠海嘉措 / Pixabay (Shenzhen–Zhongshan bridge; also cover still)",
+    "blackmarketmusic / Pixabay (Kyiv)",
+    "ClickingLoop / Pixabay (flag of China)"
+  ],
+  "sources": [
+    "https://www.abc.net.au/news/2026-11-15/albanese-will-not-rule-out-apec-photo-with-putin/107387814",
+    "https://www.canberratimes.com.au/story/9391656/awkward-moment-awaits-pm-with-potential-putin-photo/",
+    "https://www.sarawaktribune.com/moscow-confirms-trump-xi-putin-meeting-in-china/",
+    "https://en.wikipedia.org/wiki/APEC_China_2026",
+    "https://aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov",
+    "https://www.manilatimes.net/2026/11/16/news/national/ph-australia-sign-defense-cooperation/2470199",
+    "https://www.philstar.com/headlines/2026/11/16/2570387/philippines-australia-forge-updated-defense-cooperation",
+    "https://www.dfat.gov.au/geo/china/china-country-brief"
+  ],
+  "warnings": [
+    "LinkedIn poll skipped (political/sensitive); use comments.",
+    "Albanese's 'wishes of our host country' quote is as reported by ABC News (15 Nov 2026); AAP reports the same point in paraphrase.",
+    "Putin's attendance rests on the Kremlin's confirmation (Peskov via TASS/AFP) of a 19 Nov trilateral in Shenzhen; China had not confirmed it at publication. The family photo itself may yet be changed or cancelled, so check before posting late.",
+    "No real person is shown on screen: Wikimedia Commons returned HTTP 429 (rate-limited) for the whole run, so the Albanese and Putin portraits could not be downloaded; Albanese's words appear on a quote card instead."
+  ],
+  "notes": "Cover: cover.png (1080×1350) and cover-vertical.png (1080×1920), headline 'Albanese and the Putin photo. | Respect host or refuse?', still is a frame of the Shenzhen–Zhongshan bridge clip (珠海嘉措 / Pixabay), no cover number (no strong verified figure). Footage I couldn't get: Commons portraits of Albanese (File:Anthony Albanese Portrait 2022.jpg, CC BY 4.0) and Putin (Kremlin.ru, CC BY 4.0) were rate-limited (429) for over 30 minutes, and ParlView was unreachable (fetch failed); not a parliamentary story in any case. Used a quote card for Albanese and place footage of Shenzhen, Manila, Moscow and Kyiv. Carney's reported intention to join the photo (ABC only) was left out as single-source; Zelensky's 'new Yalta' line was cut for length. Video 53.4s, AI narrator (ElevenLabs).",
+  "video_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-16/video-1.mp4",
+  "captions_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-16/captions-1.srt",
+  "cover_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-16/cover-1.png",
+  "cover_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-16/cover-vertical-1.png",
+  "video_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-16/video-vertical-1.mp4",
+  "published_at": "2026-11-15T20:37:11.539Z"
+}

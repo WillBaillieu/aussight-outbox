@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-19",
+  "slot": 1,
+  "status": "ready",
+  "requested": null,
+  "focus": "finance-markets",
+  "political_or_sensitive": false,
+  "story": {
+    "headline": "Australian wages rose 1.1% in the September quarter, the strongest quarterly growth since December 2023, but at 3.5% over the year still trail 4.3% inflation, two weeks after the RBA lifted rates to 4.85%",
+    "score": 9,
+    "why": "Australian relevance 3/3 (every worker and borrower; feeds the RBA's December call); debate 2/2 (rate-hike risk vs overdue catch-up after four quarters of falling real wages); measurable 2/2 (ABS WPI 1.1% q/q, 3.5% y/y; CPI 4.3%; cash rate 4.85%); timeliness 2/3 (published by the ABS at 11:30am AEDT Wed 18 Nov, about 19 hours before this 6:48am AEDT run; no fresher story scored higher). Beat: Bunnings cutting 350 tech roles offshore with AI (~2pm AEDT 18 Nov, 7: repeats the 11 Nov Qantas AI-offshoring topic), Chalmers' super performance-test changes (10:30pm AEDT 17 Nov, older than 24h, no new development today, 7), Bupa GP clinic Medicare billing email (ABC 5am AEDT 18 Nov, 26 hours old, 7), Trump-Xi-Putin trilateral (expected Thursday in Shenzhen, not yet held; repeats 16 Nov APEC/Putin topic), Wong's West Bank settler sanctions (6:50am AEDT 18 Nov, 7)."
+  },
+  "discussion_question": "If wages still trail prices, is their fastest rise since 2023 a rate-rise risk or overdue catch-up?",
+  "x": {
+    "post": "JUST IN: Australian wages rose 1.1% in the September quarter, the fastest since 2023, but prices still rose faster over the year (3.5% vs 4.3%). If wages still trail prices, is their fastest rise since 2023 a rate-rise risk or overdue catch-up? #AusSight #ausbiz",
+    "poll_question": "If wages still trail prices, is their fastest rise since 2023 a rate-rise risk or overdue catch-up?",
+    "poll_options": [
+      "Rate-rise risk",
+      "Overdue catch-up",
+      "Too early to say"
+    ],
+    "poll_duration_days": 3,
+    "sources_reply": "Sources: https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/wage-price-index-australia/sep-2026 https://www.abs.gov.au/media-centre/media-releases/cpi-rose-43-year-september-2026 https://www.rba.gov.au/speeches/2026/mc-gov-2026-11-03.html https://www.abc.net.au/news/2026-11-18/asx-markets-business-live-news-nvidia/107396692  Footage: Joshua_Willson, chuduyen215, AlexKopeykin, ArtFlores99, Squirrel_photos, Coverr-Free-Footage, Buvrix27 / Pixabay"
+  },
+  "linkedin": {
+    "post": "1.1%: how much Australian wages rose in the September quarter, the strongest since December 2023, the ABS said yesterday.\n\nOver the year wages grew 3.5%, still behind 4.3% inflation. The RBA lifted rates to 4.85% this month; Governor Michele Bullock said board members who voted to hold saw \"no sign of wages growth accelerating\". EY's Cherelle Murphy calls the pace \"uncomfortably high\" but expects a December hold. Treasurer Jim Chalmers blames inflation, not pay, for falling real wages.\n\nIf wages still trail prices, is their fastest rise since 2023 a rate-rise risk or overdue catch-up? Tell us what you think below.\n\n#AusSight #ausbiz",
+    "poll_question": "If wages still trail prices, is their fastest rise since 2023 a rate-rise risk or overdue catch-up?",
+    "poll_options": [
+      "Rate-rise risk",
+      "Overdue catch-up",
+      "Too early to say"
+    ],
+    "poll_duration_days": 3,
+    "footage_line": "Footage: Pixabay contributors"
+  },
+  "results_followup_template": "{result_pct}% of AusSight respondents chose \"{top_option}\" when asked whether faster wage growth is a rate-rise risk or overdue catch-up ({votes} votes).",
+  "credits": [
+    "Australian banknotes: Joshua_Willson / Pixabay",
+    "Building site: chuduyen215 / Pixabay",
+    "Builder: AlexKopeykin / Pixabay",
+    "Hospital ward: AlexKopeykin / Pixabay",
+    "Barista: ArtFlores99 / Pixabay",
+    "Sydney: Squirrel_photos / Pixabay",
+    "Market: Coverr-Free-Footage / Pixabay",
+    "Workers: AlexKopeykin / Pixabay",
+    "Supermarket: Buvrix27 / Pixabay",
+    "Cover still (frame of Australian banknotes clip): Joshua_Willson / Pixabay"
+  ],
+  "sources": [
+    "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/wage-price-index-australia/sep-2026",
+    "https://www.abs.gov.au/media-centre/media-releases/highest-quarterly-wage-growth-december-quarter-2023",
+    "https://www.abs.gov.au/media-centre/media-releases/cpi-rose-43-year-september-2026",
+    "https://www.rba.gov.au/media-releases/2026/mr-26-30.html",
+    "https://www.rba.gov.au/speeches/2026/mc-gov-2026-11-03.html",
+    "https://www.abc.net.au/news/2026-11-18/asx-markets-business-live-news-nvidia/107396692",
+    "https://english.news.cn/20261118/443483d9b4484481bb91cc4909dd1f48/c.html",
+    "https://www.canberratimes.com.au/story/9393551/workers-pay-rises-blunted-by-persistent-inflation/"
+  ],
+  "warnings": [
+    "Economist views are single-source (ABC business live blog, 18 Nov 2026): EY's Cherelle Murphy ('uncomfortably high', expects a December hold).",
+    "Jim Chalmers' quote is from AAP (via The Canberra Times) and Xinhua reports of 18 Nov 2026; the Treasury ministers' site could not be reached from the cloud to check the original release.",
+    "Bullock's 'no sign of wages growth accelerating' (RBA transcript, 3 Nov 2026) describes the reasoning of the three board members who voted to hold, not her own view; keep that framing in any replies.",
+    "Inflation comparison uses the ABS monthly CPI (4.3% in the 12 months to September 2026); wages are the seasonally adjusted WPI.",
+    "No real people shown on screen: Wikimedia Commons was rate-limited, so the Bullock and Chalmers photos could not be downloaded; Chalmers appears as a quote card."
+  ],
+  "notes": "Story picked on freshness and score: ABS Wage Price Index, Sept quarter 2026 (released 11:30am AEDT 18 Nov). Video 52s, v4 format: 8 beats, 2 evidence cards (ledger: wages vs prices; excerpt: RBA transcript 3 Nov), one quote card (Chalmers), closing question card. Cover: cover.png and cover-vertical.png, a still of Australian banknotes (Joshua_Willson / Pixabay) with the 1.1% figure. Footage not obtained: ParlView (aph.gov.au blocked by this run's network allowlist) and Wikimedia Commons (rate-limited: the RBA's CC BY portrait of Michele Bullock and the 2022 ministerial portrait of Jim Chalmers both failed), so the RBA beat uses Sydney skyline footage and Chalmers is a quote card. All other footage is Pixabay B-roll of real workplaces and shops; the Sydney and banknote clips are Australian, the others are generic file footage and are labelled as such.",
+  "video_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-19/video-1.mp4",
+  "captions_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-19/captions-1.srt",
+  "cover_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-19/cover-1.png",
+  "cover_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-19/cover-vertical-1.png",
+  "video_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-19/video-vertical-1.mp4",
+  "published_at": "2026-11-18T20:32:36.210Z"
+}

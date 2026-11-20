@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-20",
+  "slot": 1,
+  "status": "ready",
+  "requested": null,
+  "focus": "finance-markets",
+  "political_or_sensitive": false,
+  "story": {
+    "headline": "Anthropic, maker of the Claude AI, debuts on Nasdaq after the biggest IPO in history (US$81.3 billion at US$83 a share), with its first trade 34% higher; Australians were offered shares through an ASIC prospectus and CommSec-led brokers",
+    "score": 9,
+    "why": "Australian relevance 2/3 (a dedicated Australian retail offer under a prospectus lodged with ASIC, via CommSec and seven other brokers, for shares that trade only on Nasdaq); debate 2/2 (retail access to US mega-floats vs leaving the risk to institutions; valuation doubts from Aswath Damodaran and Mellody Hobson); measurable 2/2 (US$83 IPO price, US$81.3bn raised, first trade US$111.50); timeliness 3/3 incl. +1 (first trade 11:48am ET Thu 19 Nov = 3:48am AEDT Fri 20 Nov, about 3.5 hours before this 7:20am AEDT run; pricing announced Wed night ET). Beat: ABS October labour force/jobless rise (ABS 11:30am AEDT 19 Nov, ~20h old, finance-markets two days running after wages, 7), Trump-Xi-Putin trilateral in Shenzhen (19 Nov, repeats 16 Nov APEC/Putin topic, 7), Climate Council data-centre emissions report (ABC 7:02am AEDT 19 Nov, 6), Bupa GP clinic closures (ABC 6am AEDT 19 Nov, follow-up to a story rejected yesterday, 6)."
+  },
+  "discussion_question": "Should everyday Australians get early access to US mega-floats, or leave that risk to big funds?",
+  "x": {
+    "post": "JUST IN: Anthropic, maker of Claude, first traded 34% above its US$83 float price after a record US$81.3B IPO. Australians could apply via CommSec-led brokers. Should everyday Australians get early access to US mega-floats, or leave that risk to big funds? #AusSight #ausbiz",
+    "poll_question": "Should everyday Australians get early access to US mega-floats, or leave that risk to big funds?",
+    "poll_options": [
+      "Yes, open it up",
+      "Leave it to big funds",
+      "Only with ASX-style rules"
+    ],
+    "poll_duration_days": 3,
+    "sources_reply": "Sources: https://finance.yahoo.com/markets/article/anthropic-stocks-first-trade-was-worth-12-billion--34-above-its-ipo-price-171721561.html https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html https://fortune.com/2026/11/19/anthropic-ipo-first-day-trading-nasdaq-record-valuation/ https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/ https://ia.acs.org.au/article/2026/australians-get-chance-to-buy-into-anthropic-ipo.html https://thebull.com.au/news/anthropic-ant-ipo-gets-a-date-a-closer-look-at-the-details-leading-in/  Disclosure: AusSight Studio videos are made with Anthropic's Claude.  Footage: JxnPhotography, MrWashingt0n, Coverr-Free-Footage, WaleedKhalid, Ankushpatel8533, jeffrey242, DziarskiLisek / Pixabay"
+  },
+  "linkedin": {
+    "post": "US$81.3 billion: the biggest IPO in history. Anthropic, maker of the Claude AI, priced at US$83 a share and first traded at US$111.50 on Nasdaq (11:48am ET Thursday).\n\nAustralians were offered shares under a prospectus lodged with ASIC, through CommSec and seven other brokers. The shares trade only in New York. Valuation expert Aswath Damodaran had put them at US$76; Ariel Investments' Mellody Hobson is wary of one float carrying the market.\n\nShould everyday Australians get early access to US mega-floats, or leave that risk to big funds? Tell us what you think below.\n\nDisclosure: AusSight Studio is built with Anthropic's Claude.\n\n#AusSight #ausbiz",
+    "poll_question": "Should everyday Australians get early access to US mega-floats, or leave that risk to big funds?",
+    "poll_options": [
+      "Yes, open it up",
+      "Leave it to big funds",
+      "Only with ASX-style rules"
+    ],
+    "poll_duration_days": 3,
+    "footage_line": "Footage: JxnPhotography, MrWashingt0n, Coverr-Free-Footage, WaleedKhalid, Ankushpatel8533, jeffrey242, DziarskiLisek / Pixabay"
+  },
+  "results_followup_template": "{percent_top}% of {total} respondents chose \"{top_option}\" when asked whether everyday Australians should get early access to US mega-floats like Anthropic's.",
+  "credits": [
+    "JxnPhotography / Pixabay",
+    "MrWashingt0n / Pixabay",
+    "Coverr-Free-Footage / Pixabay",
+    "WaleedKhalid / Pixabay",
+    "Ankushpatel8533 / Pixabay",
+    "jeffrey242 / Pixabay (incl. cover still)",
+    "DziarskiLisek / Pixabay"
+  ],
+  "sources": [
+    "https://finance.yahoo.com/markets/article/anthropic-stocks-first-trade-was-worth-12-billion--34-above-its-ipo-price-171721561.html",
+    "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html",
+    "https://fortune.com/2026/11/19/anthropic-ipo-first-day-trading-nasdaq-record-valuation/",
+    "https://www.stocktitan.net/articles/anthropic-ipo-live-ant-first-trading-day-2026",
+    "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/",
+    "https://www.foxbusiness.com/markets/anthropic-begins-trading-nasdaq-record-breaking-ipo",
+    "https://ia.acs.org.au/article/2026/australians-get-chance-to-buy-into-anthropic-ipo.html",
+    "https://thebull.com.au/news/anthropic-ant-ipo-gets-a-date-a-closer-look-at-the-details-leading-in/",
+    "https://thenightly.com.au/business/anthropic-seeks-2-trillion-valuation-in-blockbuster-ipo-offered-to-australian-investors-c-23144568"
+  ],
+  "warnings": [
+    "Prices are as at the first trade only: IPO price US$83 (set Wed 18 Nov ET); first trade US$111.50 at 11:48am ET Thu 19 Nov (3:48am AEDT Fri 20 Nov), 34% above the IPO price. Nasdaq had not closed when this package was made (close is 8am AEDT); do not describe the closing price or a day's gain from this package.",
+    "Amount raised: US$81.3bn (980 million shares at US$83) per Yahoo Finance, CBS and Fox Business; Fortune gives US$79bn excluding stock sold by insiders. Valuation figures differ by basis (about US$1.5tn fully diluted at US$83 per Yahoo/Fortune; StockTitan ~US$1.1tn), so no valuation is used in the video or posts.",
+    "Australian offer: that the Australian prospectus was lodged with ASIC comes from Information Age (ACS, 12 Nov) and The Bull (11 Nov); earlier reports (3 Nov) described it as expected. 'CommSec and seven other brokers' is from The Bull and Anthropic's support page as reported by Unite.AI (Bell Potter, CommSec, LGT Wealth, Macquarie, Morgans, Morgan Stanley Wealth Management, Sharesies, Stake).",
+    "Aswath Damodaran's US$76 valuation (18 Nov blog post) and Mellody Hobson's quote are as reported by Yahoo Finance (19 Nov), single-source.",
+    "Conflict of interest: Anthropic makes Claude, the AI that produces AusSight Studio videos. A disclosure line is in the LinkedIn post and the X sources reply; the video itself is neutral and has no disclosure on screen.",
+    "No financial advice: posts and video make no buy/sell/hold call; keep any edits that way."
+  ],
+  "notes": "Cover: cover.png (1080x1350) and cover-vertical.png (1080x1920), headline 'AI's record float opens higher. | Who should get in early?', number US$81.3B 'Raised in the IPO', still from Pixabay clip 4544 (jeffrey242, Manhattan skyline). Footage: Wikimedia Commons was rate-limited from the cloud for the whole run, so the planned CC BY photo of Dario Amodei (TechCrunch Disrupt 2023) could not be downloaded; his words appear on a quote card instead and no real person is shown on screen. No licensed footage of Nasdaq or Anthropic was available; New York, data-centre, phone and Melbourne B-roll from Pixabay is used. The opening price is used rather than a close because the market was still trading. Story chosen over the ABS jobs data to avoid back-to-back economic-data videos (wages ran yesterday). Lara: please check you are comfortable with AusSight covering Anthropic given Studio runs on Claude; the disclosure line can be removed from the posts if you prefer, but I recommend keeping it.",
+  "video_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-20/video-1.mp4",
+  "captions_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-20/captions-1.srt",
+  "cover_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-20/cover-1.png",
+  "cover_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-20/cover-vertical-1.png",
+  "video_vertical_url": "https://raw.githubusercontent.com/WillBaillieu/aussight-outbox/main/2026-11-20/video-vertical-1.mp4",
+  "published_at": "2026-11-19T20:19:34.413Z"
+}
